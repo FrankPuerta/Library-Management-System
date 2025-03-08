@@ -1,0 +1,53 @@
+Test Case 1:
+Input:
+- Title: Java Programming
+- Item ID: 101
+- Borrowed Days: 5
+- Late Days: 5
+- Type: Book
+Expected Output:
+- Title: Java Programming
+- Item ID: 101
+- Author: James Gosling
+- Late Fee: $2.50
+Actual Output:
+- Title: Java Programming
+- Item ID: 101
+- Author: James Gosling
+- Late Fee: $2.50
+
+Test Case 2:
+Input:
+- Title: Science Journal
+- Item ID: 102
+- Borrowed Days: 5
+- Late Days: 5
+- Type: Journal
+Expected Output:
+- Title: Science Journal
+- Item ID: 102
+- Issue Number: 12
+- Late Fee: $3.75
+Actual Output:
+- Title: Science Journal
+- Item ID: 102
+- Issue Number: 12
+- Late Fee: $3.75
+
+Test Case 3:
+Input:
+- Title: Inception
+- Item ID: 103
+- Borrowed Days: 5
+- Late Days: 5
+- Type: DVD
+Expected Output:
+- Title: Inception
+- Item ID: 103
+- Duration: 148 minutes
+- Late Fee: $5.00
+Actual Output:
+- Title: Inception
+- Item ID: 103
+- Duration: 148 minutes
+- Late Fee: $5.00
